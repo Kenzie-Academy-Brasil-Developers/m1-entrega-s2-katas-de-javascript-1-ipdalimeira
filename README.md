@@ -40,7 +40,7 @@ Tarefa
     17, 15, ..., 3, 1)
 9.  multiplesOfFiveBackwards - Retornar os múltiplos de 5 contando de
     trás para frente a partir de 100. (100, 95, 90, ..., 10, 5)
-10. squareNumbersBackwards - Retornar os quadrados perfeitos contando de
+10. squareNumbersBackwards - Retornar os perfeitos contando de
     trás para frente a partir de 100. (100, 81, 64, ..., 4, 1)
 
 ::: {.section .hilightedContet .hilightedContet--tip}
